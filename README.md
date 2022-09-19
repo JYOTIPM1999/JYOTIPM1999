@@ -50,4 +50,6 @@ Join Community
 Discord of the community
 Developed in India 🇮🇳
 Buy Me A Coffee
-https://activity-graph.herokuapp.com/graph?username=JYOTIPM1999&show_icons=true&count_private=true&include_all_commits=true&theme=minimal&hide_border=true&radius=4
+<p>
+  <img src="https://activity-graph.herokuapp.com/graph?username=JYOTIPM1999&show_icons=true&count_private=true&include_all_commits=true&theme=minimal&hide_border=true&radius=4" />
+</p>
