@@ -17,7 +17,7 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 - 🔭 I’m currently working on [Tracking Time](https://trackingtime.co/)
 
 - 🌱 I’m currently learning **React, MongoDB, Express JS, Node JS**
-- 📫 All my projects are available here([My repositories])(https://github.com/JYOTIPM1999?tab=repositories)
+- 📫 All my projects are available here[My repositories](https://github.com/JYOTIPM1999?tab=repositories)
 
 - 💬 Ask me about **React, Redux, MongoDB**
 
@@ -25,7 +25,7 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1QqhopBMPObPFsZF61IuLP4qtEBQ0RGTU/view?usp=sharing)
 
-- ⚡ Fun fact **I am a Chartered Accountancy Aspirant, Trader & Inverstor.**
+- ⚡ Fun fact **I am a Chartered Accountancy Aspirant, Trader & Newbie Inverstor.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
