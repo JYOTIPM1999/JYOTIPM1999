@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **jyotipm1999@gmail.com, 9337841077**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QqhopBMPObPFsZF61IuLP4qtEBQ0RGTU/view?usp=sharing](https://drive.google.com/file/d/1QqhopBMPObPFsZF61IuLP4qtEBQ0RGTU/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1QqhopBMPObPFsZF61IuLP4qtEBQ0RGTU/view?usp=sharing)
 
 - ⚡ Fun fact **I am a Chartered Accountancy Aspirant, Trader & Inverstor.**
 
