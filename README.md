@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1QqhopBMPObPFsZF61IuLP4qtEBQ0RGTU/view?usp=sharing](https://drive.google.com/file/d/1QqhopBMPObPFsZF61IuLP4qtEBQ0RGTU/view?usp=sharing)
 
-- ⚡ Fun fact **I am not funny at all.**
+- ⚡ Fun fact **I am a Chartered Accountancy Aspirant, Trader & Inverstor.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
