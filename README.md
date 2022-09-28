@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on [Tracking Time](https://trackingtime.co/)
 
 - 🌱 I’m currently learning **React, MongoDB, Express JS, Node JS**
-My repositories](https://github.com/JYOTIPM1999?tab=repositories)
+[My repositories](https://github.com/JYOTIPM1999?tab=repositories)
 
 - 💬 Ask me about **React, Redux, MongoDB**
 
