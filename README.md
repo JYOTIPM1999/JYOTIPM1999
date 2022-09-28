@@ -1,13 +1,13 @@
 <img src="https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966" />
 <h1 align="center">Hi 👋, I'm Jyoti Prakash Mohapatra</h1>
 <h2 align="left">About me</h2>
-<h3 align="center">I'm a Full Stack Developer. I fell in love with programming and I have at least learnt something, I think… 🤷‍♂️ I am fluent in classics like Javascript.
+<h4 align="center">I'm a Full Stack Developer. 
 
-My field of Interest's are building new Web Technologies and Products. and also in areas related to Deep Learning and Natural Launguage Processing.
+My field of Interest's are building new Web Technologies and Products. apart from that I love to analysis stocks and crypto.
 
 Whenever possible, I also apply my passion for developing products with Node.js and Modern Javascript Library and Frameworks like React.js, Express
 
-I have a clear, logical mind with a practical approach to problem-solving and a drive to see things through to completion. I have work experience in multiple project and colne project with team collaboration.</h3>
+I have a clear, logical mind with a practical approach to problem-solving and a drive to see things through to completion. I have work experience in multiple project and colne project with team collaboration.</h4>
 <img src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotipm1999&label=Profile%20views&color=0e75b6&style=flat" alt="jyotipm1999" /> </p>
