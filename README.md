@@ -53,7 +53,7 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jyotipm1999&" alt="jyotipm1999" /></p>
 
 
-  ![Snake animation](https://github.com/jyotipm1999/jyotipm1999/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 
 
