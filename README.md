@@ -48,7 +48,7 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 
 <p align="center"><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=jyotipm1999&show_icons=true&locale=en&layout=compact" alt="jyotipm1999"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyotipm1999&show_icons=true&locale=en" alt="jyotipm1999" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyotipm1999&show_icons=true&locale=en" alt="jyotipm1999" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jyotipm1999&" alt="jyotipm1999" /></p>
 
