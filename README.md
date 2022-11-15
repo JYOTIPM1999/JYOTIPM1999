@@ -9,7 +9,7 @@ My field of Interest's are building new Web Technologies and Products. apart fro
 Whenever possible, I also apply my passion for developing products with Node.js and Modern Javascript Library and Frameworks like React.js, Express
 
 I have a clear, logical mind with a practical approach to problem-solving and a drive to see things through to completion. I have work experience in multiple project and colne project with team collaboration.</h4>
-<img src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif"/>
+<p><img align="center" src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif"/><p/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotipm1999&label=Profile%20views&color=0e75b6&style=flat" alt="jyotipm1999" /> </p>
 
