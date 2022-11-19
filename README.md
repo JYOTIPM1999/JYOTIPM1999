@@ -48,11 +48,11 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 <h2 align="center">Support:</h2>
 <p align="center"><a href="https://www.buymeacoffee.com/JYOTIPM1999"> <img  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="JYOTIPM1999" /></a></p><br><br>
 
-<p align="left" width="100%"><img align="center" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyotipm1999&show_icons=true&locale=en&layout=compact" alt="jyotipm1999"/></p>
+<p align="left" width="100%"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyotipm1999&show_icons=true&locale=en&layout=compact" alt="jyotipm1999"/></p>
 
-<p align="center">&nbsp;<img align="center"  width="70%" src="https://github-readme-stats.vercel.app/api?username=jyotipm1999&show_icons=true&locale=en" alt="jyotipm1999" /></p>
+<p align="center">&nbsp;<img align="center"  width="50%" src="https://github-readme-stats.vercel.app/api?username=jyotipm1999&show_icons=true&locale=en" alt="jyotipm1999" /></p>
 
-<p align="right"><img align="center"  width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=jyotipm1999&" alt="jyotipm1999" /></p>
+<p align="right"><img align="center"  width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=jyotipm1999&" alt="jyotipm1999" /></p>
 
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
