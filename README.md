@@ -13,7 +13,7 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 <img src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif"/>
 <div/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotipm1999&label=Profile%20views&color=0e75b6&style=flat" alt="jyotipm1999" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jyotipm1999&label=Profile%20views&color=0e75b6&style=flat" alt="jyotipm1999" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyotipm1999&theme=discord" alt="jyotipm1999" /></a> </p>
 
