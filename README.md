@@ -19,7 +19,7 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 
 - 🔭 I’m currently working on [Flipkart Clone](https://github.com/JYOTIPM1999/Flipkart_Clone)
 
-- 🌱 I’m currently learning **React, MongoDB, Express JS, Node JS**
+- 🌱 I’m currently learning **React, MongoDB, Express JS, Node JS, Javascript**
 - 📫 All my projects are available here[My repositories](https://github.com/JYOTIPM1999?tab=repositories)
 
 - 💬 Ask me about **React, NodeJS, Redux, MongoDB, Javascript**
