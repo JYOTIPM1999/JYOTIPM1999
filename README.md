@@ -22,7 +22,7 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 - 🌱 I’m currently learning **React, MongoDB, Express JS, Node JS**
 - 📫 All my projects are available here[My repositories](https://github.com/JYOTIPM1999?tab=repositories)
 
-- 💬 Ask me about **React, NodeJS, Redux, MongoDB**
+- 💬 Ask me about **React, NodeJS, Redux, MongoDB, Javascript**
 
 - 📫 How to reach me **jyotipm1999@gmail.com, 9337841077**
 
