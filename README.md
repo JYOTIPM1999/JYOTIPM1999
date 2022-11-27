@@ -1,5 +1,5 @@
 <img src="https://github.com/JYOTIPM1999/JYOTIPM1999/blob/main/White%20and%20Blue%20Modern%20New%20Arrival%20Headphone%20Banner.gif?raw=true"/>
-<img src="https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966" />
+<img src="https://camo.githubusercontent.com/20ba1b87416f6e74a4debebec7a695504eec286a3a0a082f8cc6063ab1353dbe/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966" />
 <h1 align="center">Hi 👋, I'm Jyoti Prakash Mohapatra</h1>
 <h2 align="left">About me</h2>
 <h4 align="center">I'm a Full Stack Developer. 
