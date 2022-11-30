@@ -1,7 +1,7 @@
 <img src="https://github.com/JYOTIPM1999/JYOTIPM1999/blob/main/White%20and%20Blue%20Modern%20New%20Arrival%20Headphone%20Banner.gif?raw=true"/>
 <img width="100%" src="https://camo.githubusercontent.com/20ba1b87416f6e74a4debebec7a695504eec286a3a0a082f8cc6063ab1353dbe/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966" />
 <h1 align="center">Hi 👋, I'm Jyoti Prakash Mohapatra</h1>
-<h2 align="left">About me</h2>
+<h2 align="right">About me</h2>
 <h4 align="center">I'm a Full Stack Developer. 
 
 My field of Interest's are building new Web Technologies and Products. apart from that I love to analysis stocks and crypto.
