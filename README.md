@@ -17,7 +17,7 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyotipm1999&theme=discord" alt="jyotipm1999" /></a> </p>
 
-- 🔭 I’m currently working on [Cronometer Clone](https://github.com/JYOTIPM1999/Flipkart_Clone)
+- 🔭 I’m currently working on [Cronometer Clone](https://github.com/furqan5921/evasive-stew-6265)
 
 - 🌱 I’m currently learning **React, MongoDB, Express JS, Node JS, Javascript**
 - 📫 All my projects are available here[My repositories](https://github.com/JYOTIPM1999?tab=repositories)
