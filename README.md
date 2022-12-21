@@ -57,4 +57,4 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-
+  <img src="https://activity-graph.herokuapp.com/graph?username=JYOTIPM1999&show_icons=true&count_private=true&include_all_commits=true&theme=minimal&hide_border=true&radius=4" />
