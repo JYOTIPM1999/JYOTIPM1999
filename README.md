@@ -52,7 +52,7 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 
 <p align="center">&nbsp;<img align="center"  width="65%" src="https://github-readme-stats.vercel.app/api?username=jyotipm1999&show_icons=true&locale=en" alt="jyotipm1999" /></p>
   
-<p align="left" width="100%"><img align="center" width="60%" src="https://github-stats-alpha.vercel.app/api?jyotipm1999=%7Busername%7D" alt="jyotipm1999"/></p>
+<p align="left" width="100%"><img align="center" width="60%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jyotipm1999" alt="jyotipm1999"/></p>
 
 <p align="center">&nbsp;<img align="center"  width="65%" src="https://github-readme-stats.vercel.app/api?username=jyotipm1999&show_icons=true&locale=en" alt="jyotipm1999" /></p>
 
