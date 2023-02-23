@@ -56,7 +56,7 @@ I have a clear, logical mind with a practical approach to problem-solving and a 
 
 <p align="right"><img align="center"  width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=jyotipm1999&" alt="jyotipm1999" /></p>
   
- <a target="_blank" href="https://leetcode.com/jyotipm1999/"><img  style={width:"50%"}  src="https://leetcode.card.workers.dev/jyotipm1999?theme=wtf&font=baloo&extension=null" /></a>
+ <a target="_blank" href="https://leetcode.com/Jyotipm/"><img  style={width:"50%"}  src="https://leetcode.card.workers.dev/Jyotipm?theme=wtf&font=baloo&extension=null" /></a>
 
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
