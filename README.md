@@ -8,7 +8,7 @@ My field of Interest's are building new Web Technologies and Products. apart fro
 
 Whenever possible, I also apply my passion for developing products with Node.js and Modern Javascript Library and Frameworks like React.js, Express
 
-I have a clear, logical mind with a practical approach to problem-solving and a drive to see things through to completion. I have work experience in multiple project and colne project with team .</h4>
+I have a clear, logical mind with a practical approach to problem-solving and a drive to see things through to completion. I have work experience in multiple project and colne project with team collaboration.</h4>
 <div>
 <img src="https://cdn.dribbble.com/users/260312/screenshots/2553737/antnodeskdb.gif"/>
 <div/>
